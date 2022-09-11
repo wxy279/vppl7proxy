@@ -1,0 +1,2 @@
+cffi >= 1.6
+aenum
